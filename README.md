@@ -19,7 +19,7 @@ Automation script for a Todo web app using **Python** and **Selenium**.
 
 ## ✅ What the Script Does
 - Opens the TodoMVC app
-- Adds a new task: "تعلم Selenium خطوة بخطوة"
+- Adds a new task: "Buy Milk"
 - Marks the task as complete
 - Deletes the task
 - Closes the browser
